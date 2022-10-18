@@ -13,7 +13,6 @@ namespace Ref_vs_Out_demo
     class RefDemo
     {
 
-        // Main Method
         public RefDemo()
         {
 
