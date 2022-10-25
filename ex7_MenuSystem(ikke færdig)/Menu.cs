@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace MenuSystem
 {
-    internal class Menu
+    public class Menu
     {
         public string Title;
         public string MenuItems;
-        MenuItem menuItems = new MenuItem();
         public int Itemcount = 0;
+        public Menu()
 
-        public Show()
-        {
-
-        }
     }
 }

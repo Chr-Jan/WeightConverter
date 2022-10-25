@@ -21,7 +21,7 @@ namespace Calculator
         {
             return x / (double)y;
         }
-        public int Multiply(int x, int y)
+        public double Multiply(int x, int y)
         {
             return x * y;
         }

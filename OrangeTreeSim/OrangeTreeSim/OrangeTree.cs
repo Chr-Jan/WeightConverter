@@ -86,7 +86,8 @@ namespace OrangeTreeSim
         public int Age
         {
             get { return age; }
-            set { 
+            set 
+            { 
                 //age = value;
                 if (value < 80 && value > 0)
                 {
