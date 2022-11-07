@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance_demo
+namespace Abstract_Classes_demo
 {
-    internal class Vehicle2
+    abstract class Vehicle
     {
         //field
         public int speed = 0;
@@ -16,17 +16,22 @@ namespace Inheritance_demo
             Console.WriteLine("This vehicle is moving!");
         }
     }
-    //children classes
-    class Car2 : Vehicle2
+    //children class
+    class Car : Vehicle
     {
         public int wheels = 4;
+        int maxSpeed = 500;
     }
-    class Bicycle2 : Vehicle2
+    //children class
+    class Bicycle : Vehicle
     {
         public int wheels = 2;
+        int maxSpeed = 50;
     }
-    class Boat2 : Vehicle2
+    //children class
+    class Boat : Vehicle
     {
         public int wheels = 0;
+        int maxSpeed = 100;
     }
 }
