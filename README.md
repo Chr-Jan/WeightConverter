@@ -15,8 +15,7 @@ Your weight: 70
 Is your weight in (K)g or (L)bs?: K
 Weight in Lbs: 155.55555555555554
 Do you want to try again? Y/N: N
-Have a nice day!
-    </pre>
+Have a nice day!</pre>
     <h2>Requirements</h2>
     <ul>
         <li>Python 3.x</li>
