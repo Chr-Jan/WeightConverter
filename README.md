@@ -27,4 +27,4 @@ Have a nice day!</pre>
         <li>Input for retry prompt should be either 'Y' or 'N'.</li>
     </ul>
     <h2>Sequence Diagram</h2>
-    <img src="Python/HelloWorld/pythonProject/ReadMeFiles/SequenceDiagram.png" alt="Sequence Diagram">
+    <img src="Python/WeightConverter/WeightConverter/ReadMeFiles/SequenceDiagram.png" alt="Sequence Diagram">
