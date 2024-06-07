@@ -27,4 +27,4 @@ Have a nice day!</pre>
         <li>Input for retry prompt should be either 'Y' or 'N'.</li>
     </ul>
     <h2>Sequence Diagram</h2>
-    <img src="/ReadMeFiles/SequenceDiagram.png" alt="Sequence Diagram" style="width: 75%;">
+    <img src="/ReadMeFiles/SequenceDiagram.png" alt="Sequence Diagram" style="width: 50%;">
